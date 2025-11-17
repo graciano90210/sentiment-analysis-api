@@ -1,5 +1,5 @@
 # --- Core ML & Data ---
-tensorflow
+tensorflow-cpu
 pandas
 scikit-learn
 nltk
@@ -10,3 +10,4 @@ uvicorn[standard]
 
 # --- Utilities ---
 python-dotenv
+gunicorn
