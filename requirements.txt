@@ -1,0 +1,12 @@
+# --- Core ML & Data ---
+tensorflow
+pandas
+scikit-learn
+nltk
+
+# --- API & Web Server ---
+fastapi
+uvicorn[standard]
+
+# --- Utilities ---
+python-dotenv
